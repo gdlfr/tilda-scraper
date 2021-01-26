@@ -1,0 +1,14 @@
+# Ignore all logfiles and tempfiles.
+*.csv
+*.html
+*.zip
+__pycache__/
+
+# ignore IDE files
+idea/
+vscode/
+# 
+env/
+venv/
+
+
