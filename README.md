@@ -1,2 +1,2 @@
 ### About
-Just simple HTTP parser for someone needs.
+Just simple HTTP parser for someone's needs.
